@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+venv/
+images/source/
+*.kml
+*.kmz
+*.json
